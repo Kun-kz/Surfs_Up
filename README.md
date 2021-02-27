@@ -14,10 +14,11 @@ The following tasks were completed in the challenge.
 Table 1 presented the summary statistics for June, and table 2 presented the summary statistics for December.
 Table 1 Summary Statistics for June
 
-![](results/Summary Statistics for June.png)
+![](results/Table1.png)
+
 Table 2 Summary Statistics for December
 
-![](results/Summary Statistics for December.png)
+![](results/Table2.png)
 
 Our results indicated that:
 - The number of temperature observations in June was larger than that in December. There were 1700 total temperature observations in June and 1517 in December.
@@ -32,19 +33,21 @@ Besides the above results, we also finished two additional queries.
 Firstly, we would like to see the station activity in contribution to the temperature observations. Table 3 was the list of the stations and the counts in descending order for temperature observations in June, and Table 4 was the list of the stations for temperature observations in December. 
 Table 3 Stations for Observations in June
 
-![](results/Station counts for temps in June.png)
+![](results/Table3.png)
+
 Table 4 Stations for Observations in December
 
-![](results/Station counts for temps in December.png)
+![](results/Table4.png)
 
 Our results indicated that the station USC00519281 provided the most observations for June and December. Therefore, we chose to use the statistical summaries of station USC00519281 to confirm our pervious results.
 
 Secondly, we finished two statistical summaries for station USC00519281. Table 5 was the statistics for June and table 6 was the statistics for December.
 Table 5 Summary Statistics for June at Station USC00519281
 
-![](results/Summary for June at station USC00519281.png)
+![](results/Table5.png)
+
 Table 5 Summary Statistics for December at Station USC00519281
 
-![](results/Summary for December at station USC00519281.png)
+![](results/Table6.png)
 
 The temperature at station USC00519281 was lower than the temperature result including all stations. But the temperature trend and change results remained the same as the ones using the data of all stations.
