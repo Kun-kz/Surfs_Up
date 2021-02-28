@@ -49,7 +49,7 @@ Table 5 Summary Statistics for June at Station USC00519281
 
 ![](results/Table5.png)
 
-Table 5 Summary Statistics for December at Station USC00519281
+Table 6 Summary Statistics for December at Station USC00519281
 
 ![](results/Table6.png)
 
